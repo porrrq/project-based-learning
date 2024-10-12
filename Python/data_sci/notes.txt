@@ -1,0 +1,13 @@
+Introduction:
+========================================================================================
+Decision tree and random forest: https://youtu.be/tIYToVmwu4s?si=pYir6u0rUaq4a4W8
+SVM (Support Vector Machine): https://youtu.be/tyIJjH9r5Aw?si=ktmuf0LKrltX_HTO
+KKN(K Nearest Neighbor): https://www.youtube.com/watch?v=BpkaVTu7JWQ
+
+=======
+twitter api isn't free anymore!
+=======
+
+Recommender Systems
+1. Collaborative -> The prediction based on the other similar users have liked in the past.
+2. Content-Based -> Thr prediction based on what you've liked in the past.
